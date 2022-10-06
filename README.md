@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bertoldofonseca" alt="bertoldofonseca" /></a> </p>
 
-- 📫 How to reach me **bertoldo.fonseca@zerohash.com bertoldo@gmail.com**
+- 📫 How to reach me at **bertoldo.fonseca@zerohash.com** and **bertoldo@gmail.com**
 
 - ⚡ Fun fact **I love Mountain Bike and I try to go to trails every weekeend.**
 
