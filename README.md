@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bertoldofonseca-zh
+- 👋 Hi, I’m Bertoldo Fonseca
 - 👀 I’m interested in backend development in Go and Mobile development in Flutter
 - 🌱 I’m currently learning Go and Flutter.
 - 📫 How to reach me bertoldo.fonseca@zerohash.com or bertoldo@gmail.com
