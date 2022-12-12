@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bertoldo Fonseca</h1>
-<h3 align="center">I'm a Software Engineer and like to work with Backend and Mobile development.</h3>
+<h3 align="center">I'm a Software Engineer and I like to work with Backend and Mobile development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bertoldofonseca-zh&label=Profile%20views&color=0e75b6&style=flat" alt="bertoldofonseca-zh" /> </p>
 
