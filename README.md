@@ -7,7 +7,7 @@
 
 - 📫 How to reach me at **bertoldo.fonseca@zerohash.com** and **bertoldo@gmail.com**
 
-- ⚡ Fun fact **I love Mountain Bike and I try to go to trails every weekeend.**
+- ⚡ Fun fact **I love Mountain Bike, and I try to go to trails every weekend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
