@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bertoldofonseca-zh&theme=gruvbox" alt="bertoldofonseca-zh" /></a> </p>
 
-- 📫 How to reach me at **bertoldo.fonseca@zerohash.com** and **bertoldo@gmail.com**
-
 - ⚡ Fun fact **I love Mountain Bike, and I try to go to trails every weekend.**
 
 <h3 align="left">Connect with me:</h3>
