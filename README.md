@@ -8,4 +8,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bertoldofonseca-zh&" alt="bertoldofonseca-zh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bertoldofonseca-zh&" alt="bertoldofonseca-zh" /></p>
