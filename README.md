@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bertoldo Fonseca</h1>
 <h3 align="center">Software Engineer — Backend & Mobile Development</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,java,spring,dart,flutter,swift,bash,docker" alt="Languages and Tools" />
